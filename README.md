@@ -1,44 +1,35 @@
 # ESP32 Weather Monitoring System
 
-> Project demonstrating technical skills and practical implementation
+> **Project demonstrating technical skills and practical implementation**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Technical Skills](#technical-skills)
-- [External Links](#external-links)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Keywords](#keywords)
+---
 
-## 🎯 Overview
-
-**Project Name:** ESP32 Weather Monitoring System
+## 📋 Overview
 
 **Categories:** IoT/Embedded Systems, Environmental/Energy
 
+**Technologies:** Multiple Technologies, ESP32
+
 **Project Period:** June 2025 - August 2025
 
-**Status:** Completed and Maintained
+**Status:** Completed and Maintained | **Last Updated:** August 2025
 
-**Last Updated:** August 2025
+---
 
-### Description
+## 🚀 Description
 
 Project demonstrating technical skills and practical implementation
 
-## 🚀 Technologies
+---
 
-Multiple Technologies, ESP32
-
-## ✨ Features
+## 💡 Project Highlights
 
 - Successfully developed and deployed ESP32 Weather Monitoring System
 - Implemented using Multiple Technologies, ESP32
 - Demonstrated proficiency in IoT/Embedded Systems, Environmental/Energy
 - Received 1 star from the developer community
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -53,52 +44,38 @@ Multiple Technologies, ESP32
 - Device Management
 - Problem Solving
 
-## 🔗 External Links
+---
 
-Live Deployment (Netlify):
-- https://classy-arithmetic-fd531c.netlify.app/
+## 🔗 Links & Resources
 
-Video Tutorials/Demos (YouTube):
-- https://youtube.com/@greatscottlab
-- https://youtube.com/@ExplainingComputers
-- https://youtube.com/@RandomNerdTutorials
-- https://youtube.com/@AndreasSpiess
-- https://youtube.com/playlist?list=PLrZbkNpNVSwxFrpzZmIKzraAUmH_vNkET&si=Y3f_a5mZTr7jK3ef
-- https://youtube.com/@Dronebotworkshop
+### 🌐 Live Deployments
+- [https://classy-arithmetic-fd531c.netlify.app/](https://classy-arithmetic-fd531c.netlify.app/)
 
-Documentation:
-- https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System/wiki
+### 📺 Video Tutorials
+- [https://youtube.com/@greatscottlab](https://youtube.com/@greatscottlab)
+- [https://youtube.com/@ExplainingComputers](https://youtube.com/@ExplainingComputers)
+- [https://youtube.com/@RandomNerdTutorials](https://youtube.com/@RandomNerdTutorials)
+- [https://youtube.com/@AndreasSpiess](https://youtube.com/@AndreasSpiess)
+- [https://youtube.com/playlist?list=PLrZbkNpNVSwxFrpzZmIKzraAUmH_vNkET&si=Y3f_a5mZTr7jK3ef](https://youtube.com/playlist?list=PLrZbkNpNVSwxFrpzZmIKzraAUmH_vNkET&si=Y3f_a5mZTr7jK3ef)
+- [https://youtube.com/@Dronebotworkshop](https://youtube.com/@Dronebotworkshop)
 
-Other Resources:
-- https://nodered.org/
-- https://mosquitto.org/download/
-- https://www.adafruit.com/
-- https://openweathermap.org/api
-- https://www.callmebot.com/blog/free-api-whatsapp-messages/
+### 📚 Documentation
+- [https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System/wiki](https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System/wiki)
 
-## 📦 Installation
+### 🔧 Other Resources
+- [https://nodered.org/](https://nodered.org/)
+- [https://mosquitto.org/download/](https://mosquitto.org/download/)
+- [https://www.adafruit.com/](https://www.adafruit.com/)
+- [https://openweathermap.org/api](https://openweathermap.org/api)
+- [https://www.callmebot.com/blog/free-api-whatsapp-messages/](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
 
-```bash
-# Clone the repository
-git clone https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System
+---
 
-# Navigate to the project directory
-cd ESP32-Weather-Monitoring-System
+## 📦 Repository
 
-# Install dependencies (if applicable)
-# npm install
-# or
-# pip install -r requirements.txt
-```
+**GitHub:** [https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System](https://github.com/HorizonHnk/ESP32-Weather-Monitoring-System)
 
-## 💻 Usage
-
-Please refer to the project-specific documentation for detailed usage instructions.
-
-## 📊 Project Status
-
-- **Status:** Completed and Maintained
-- **Last Updated:** August 2025
+---
 
 ## 🏷️ Keywords
 
@@ -111,16 +88,8 @@ Multiple Technologies, ESP32, IoT/Embedded Systems, Environmental/Energy, Softwa
 **Henock Mukonkole (HorizonHnk)**
 
 - GitHub: [@henockhnk092-dot](https://github.com/henockhnk092-dot/)
-- Portfolio: [86 Technical Projects](https://github.com/henockhnk092-dot/)
-
-## 📄 License
-
-This project is part of my professional portfolio. Please contact me for licensing information.
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome!
+- Portfolio: [90 Technical Projects](https://github.com/henockhnk092-dot/)
 
 ---
 
-*Generated as part of HorizonHnk's GitHub Portfolio Restoration Project*
+*Part of my professional portfolio showcasing expertise in IoT/Embedded Systems, Environmental/Energy*
